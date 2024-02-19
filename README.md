@@ -20,7 +20,7 @@ About me:
 <a href="https://www.instagram.com/aditya.jain_09?r=nametag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aditya.jain_09" height="30" width="40" /></a>
 </p>
 
-**languages and tools:**  
+## 💻 languages and tools:
 
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -45,7 +45,7 @@ About me:
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+### 👾 Software and tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
